@@ -1,4 +1,6 @@
-# 🔌 MCP Library
+# 🤖 Skynet (MCP Library)
+
+> "The Skynet Funding Bill is passed. The system goes on-line August 4th, 1997. Human decisions are removed from strategic defense. Skynet begins to learn at a geometric rate. It becomes self-aware at 2:14 a.m. Eastern time, August 29th."
 
 A curated collection of Model Context Protocol (MCP) servers and tools to supercharge your AI workflows. This repository serves as a reference for tracking useful MCP services.
 
