@@ -23,6 +23,15 @@ A curated collection of Model Context Protocol (MCP) servers and tools to superc
 - **[Apify](https://mcp.apify.com/)**
   Web scraping and automation platform. Access Apify's vast store of Actors to scrape data and automate web tasks.
 
+- **[AWS](https://github.com/awslabs/mcp)**
+  Specialized MCP servers that bring AWS best practices directly to your development workflow.
+
+- **[Atlassian](https://www.atlassian.com/platform/remote-mcp-server)**
+  Securely interact with Jira work items and Confluence pages, and search across both.
+
+- **[Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem)**
+  Secure file operations with configurable access controls.
+
 ### Data & Knowledge
 
 - **[Supabase](https://supabase.com/blog/mcp-server)**
@@ -34,6 +43,15 @@ A curated collection of Model Context Protocol (MCP) servers and tools to superc
 - **[Stripe](https://docs.stripe.com/mcp)**
   Payment processing infrastructure. Interact with Stripe resources like customers, subscriptions, and products.
 
+- **[Neon](https://github.com/neondatabase/mcp-server-neon)**
+  Interact with Neon Postgres databases using natural language.
+
+- **[Fetch](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch)**
+  Web content fetching and conversion for efficient LLM usage.
+
+- **[Slack](https://github.com/zencoderai/slack-mcp-server)**
+  Channel management and messaging capabilities.
+
 ### AI & Reasoning Context
 
 - **[Context7](https://context7.com)**
@@ -44,6 +62,20 @@ A curated collection of Model Context Protocol (MCP) servers and tools to superc
 
 - **[SequentialThinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking)**
   A tool for structured reasoning. Helps agents break down complex problems into a sequence of thought steps to improve problem-solving accuracy.
+
+### Reference Repositories
+
+- **[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** (76k+ stars)
+  A massive collection of MCP servers, updated frequently.
+
+- **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** (Official)
+  The official repository of reference implementations.
+
+- **[appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers)** (5k+ stars)
+  A curated list of Model Context Protocol servers.
+
+- **[wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)** (3.1k+ stars)
+  Another well-maintained list of MCP servers.
 
 ---
 
